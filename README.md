@@ -28,4 +28,4 @@ internship) where the working language is English.
 
 ### Reach me
 - Email: tonuiivyn2@gmail.com
-- LinkedIn: coming soon
+- LinkedIn: [ivyn-tonui](https://www.linkedin.com/in/ivyn-tonui-5a3b81326/)
