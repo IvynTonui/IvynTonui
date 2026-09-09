@@ -4,7 +4,7 @@
 wrap LLMs in real engineering: n8n, PostgreSQL, and API integration, with
 a focus on making AI safe and reliable enough to run unattended.
 
-Previously Business Automation Engineer at a cross-border logistics company,
+Previously Software Engineer- Business Automation at a cross-border logistics company,
 where I shipped the four systems below into production. Relocating to Germany
 for an MSc in Web Engineering at TU Chemnitz.
 
