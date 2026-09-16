@@ -1,6 +1,6 @@
 ## Hi, I'm Ivyn 👋
 
-**AI Automation Engineer.** I build production automation systems that
+**Software Engineer (AI & Automation).** I build production automation systems that
 wrap LLMs in real engineering: n8n, PostgreSQL, and API integration, with
 a focus on making AI safe and reliable enough to run unattended.
 
@@ -23,8 +23,8 @@ validation gates, idempotent state, and deliberate failure modes.
 | [Social Content Pipeline](https://github.com/IvynTonui/n8n-social-content-pipeline) | Self-feeding content system with a one-click human approval gate | n8n, PostgreSQL, LLM, image gen |
 
 ### Currently
-Completing n8n certification and open to AI automation roles (Werkstudent /
-internship) where the working language is English.
+Completing n8n certification and open to Software Engineering roles in AI &
+automation (Werkstudent / internship) where the working language is English.
 
 ### Reach me
 - Email: tonuiivyn2@gmail.com
